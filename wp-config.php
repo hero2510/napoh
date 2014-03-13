@@ -19,10 +19,10 @@
 define('DB_NAME', 'nicenap');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'hero2510');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '123456');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -80,6 +80,7 @@ define('WPLANG', '');
  */
 define('WP_DEBUG', false);
 
+define('WP_SITEURL', 'http://hero2510.kd.io/napoh');
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
