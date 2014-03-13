@@ -1,0 +1,14 @@
+
+/*BLUE STYLES*/
+
+a {color: #4989ff; text-decoration: none;}
+::selection {color:#fff; background-color: #212121;}
+.flex-caption span.text_attention {color: #4989ff;}
+nav.main_nav ul li.active a, .back ul li.active a {background-color: #4989ff;}
+.flex-direction-nav a {background: url(../img/button_blue.png) no-repeat 0 0;}
+.box_service:hover {border-top: 8px solid #4989ff;}
+.option-set li a.selected {background-color: #4989ff;}
+.search_widget {background: #212121;}
+.star-icon {background: url(../img/blog/star-icon-blue.png);}
+span .caption-text img {display: none;}
+.more_about_bubble {background-image: url(../img/more_about_blue.png); height: 51px; width: 52px;}

@@ -1,0 +1,72 @@
+
+/*Styles for older IE versions (previous to IE9)*/
+
+
+.logo {
+    float: left;
+    margin-top: 13px;
+    width: 200px;
+    margin-left: 205px;
+}
+
+.span12 {
+    background-color: #151515;
+    left: 0;
+    position: fixed;
+    right: 0;
+    z-index: 999;
+}
+
+.main_nav {
+    float: right;
+	margin-right: 200px;
+}
+
+.flexslider.main-slider {
+	margin-top: 80px;
+}
+
+nav.main_nav UL LI.active A {
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+
+
+
+
+.search_widget {
+    width: 260px;
+}
+
+
+
+.flex-direction-nav a {
+    background: url("../img/button.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer !important;
+    display: block!important;
+    height: 50px!important;
+    margin: 35px 0 0!important;
+    opacity: 1!important;
+    position: absolute!important;
+    text-indent: -9999px!important;
+    top: 50%!important;
+    width: 50px!important;
+    z-index: 10!important;
+}
+
+.flex-direction-nav .flex-prev {
+    opacity: 1!important;
+}
+
+
+/* Direction Nav */
+.flex-direction-nav {*height: 0!important;}
+.flex-direction-nav a {width: 50px; height: 50px; margin: -20px 0 0; display: block; background: url(../img/button.png) no-repeat 0 0; position: absolute; top: 50%; z-index: 10; cursor: pointer; text-indent: -9999px; opacity: 0; -webkit-transition: all .3s ease;}
+.flex-direction-nav .flex-next {background-position: 100% 0; right: -50px!important;opacity: 1!important}
+.flex-direction-nav .flex-prev {left: -50px!important;opacity: 1!important}
+.flexslider:hover .flex-next {opacity: 0.8; right: -50px!important;}
+.flexslider:hover .flex-prev {opacity: 0.8; left: -50px!important;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1!important;}
+.flex-direction-nav .flex-disabled {opacity: .3!important; filter:alpha(opacity=30); cursor: default;}

@@ -1,0 +1,14 @@
+
+/*GREEN STYLES*/
+
+a {color: #40bf73; text-decoration: none;}
+::selection {color:#fff; background-color: #212121;}
+.flex-caption span.text_attention {color: #55e566;}
+nav.main_nav ul li.active a, .back ul li.active a {background-color: #55e566;}
+.flex-direction-nav a {background: url(../img/button_green.png) no-repeat 0 0;}
+.box_service:hover {border-top: 8px solid #55e566;}
+.option-set li a.selected {background-color: #55e566;}
+.search_widget {background: #212121;}
+.star-icon {background: url(../img/blog/star-icon-green.png);}
+span .caption-text img {display: none;}
+.more_about_bubble {background-image: url(../img/more_about_green.png); height: 51px; width: 52px;}
