@@ -1,0 +1,14 @@
+
+/*YELLOW STYLES*/
+
+a {color: #212121; text-decoration: none;}
+::selection {color:#fff; background-color: #212121;}
+.flex-caption span.text_attention {color: #f0ff6f;}
+nav.main_nav ul li.active a, .back ul li.active a {background-color: #f0ff6f; color: #212121;}
+.flex-direction-nav a {background: url(../img/button_yellow.png) no-repeat 0 0;}
+.box_service:hover {border-top: 8px solid #f0ff6f;}
+.option-set li a.selected {background-color: #f0ff6f; color: #212121;}
+.search_widget {background: #212121;}
+.star-icon {background: url(../img/blog/star-icon-yellow.png);}
+span .caption-text img {display: none;}
+.more_about_bubble {background-image: url(../img/more_about_yellow.png); height: 51px; width: 52px;}

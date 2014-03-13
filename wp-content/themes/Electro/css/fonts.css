@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'equal_sans_demoregular';
+    src: url('../fonts/equalsans_demo.eot');
+    src: url('../fonts/equalsans_demo.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/equalsans_demo.woff') format('woff'),
+         url('../fonts/equalsans_demo.ttf') format('truetype'),
+         url('../fonts/equalsans_demo.svg#equal_sans_demoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SegoeUINormal';
+    src: url('../fonts/segoeui-webfont.eot');
+    src: url('../fonts/segoeui-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/segoeui-webfont.woff') format('woff'),
+         url('../fonts/segoeui-webfont.ttf') format('truetype'),
+         url('../fonts/segoeui-webfont.svg#SegoeUINormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SegoeUICursiva';
+    src: url('../fonts/segoeuii-webfont.eot');
+    src: url('../fonts/segoeuii-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/segoeuii-webfont.woff') format('woff'),
+         url('../fonts/segoeuii-webfont.ttf') format('truetype'),
+         url('../fonts/segoeuii-webfont.svg#SegoeUICursiva') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
